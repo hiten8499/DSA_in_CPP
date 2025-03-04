@@ -43,19 +43,19 @@ int main()
     {
         grade = 'E';
     }
-    else if (per > 49 && per <= 59)
+    else if (per <= 59)
     {
         grade = 'D';
     }
-    else if (per > 59 && per <= 69)
+    else if (per <= 69)
     {
         grade = 'C';
     }
-    else if (per > 69 && per <= 79)
+    else if (per <= 79)
     {
         grade = 'B';
     }
-    else if (per > 79 && per <= 100)
+    else if (per <= 100)
     {
         grade = 'A';
     }
