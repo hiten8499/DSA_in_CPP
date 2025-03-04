@@ -22,11 +22,11 @@
         {
             cout<<"You are not Eligible for Job";
         }
-        else if (age>18 && age<55)
+        else if (age<55)
         {
             cout<<"Eligible For Job";
         }
-        else if (age>=55 && age<57)
+        else if (age<57)
         {
             cout<<"Eligible for Job but Retiremnet soon";
         }
