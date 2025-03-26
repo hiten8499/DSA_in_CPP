@@ -10,4 +10,5 @@ int main(){
     cin>>input;
 
     cout<<endl <<"THe ASCII VALUE oF GIVEN NUMBER IS"<<endl<<int(input);
+    return 0;
 }
