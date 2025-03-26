@@ -1,4 +1,4 @@
-//Find the SIze of given input 
+//Find the Size of given input 
 
 #include<iostream>
 
@@ -13,9 +13,9 @@ int main()
 
     cout<<endl<<"Size Occupied by Number :-"<<sizeof(input)<<"bytes";
 
-    cout<<"Enter String to find the size:-";
+    cout<<endl<<"Enter String to find the size:-";
     cin>>input1;
-    cout<<endl<<"Size Occupied by Number :-"<<sizeof(input)<<"bytes";
+    cout<<endl<<"Size Occupied by Number :-"<<sizeof(input1)<<"bytes";
 
     return 0;
 }
